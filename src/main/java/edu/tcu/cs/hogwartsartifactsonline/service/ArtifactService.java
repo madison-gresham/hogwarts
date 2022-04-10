@@ -2,6 +2,7 @@ package edu.tcu.cs.hogwartsartifactsonline.service;
 
 import edu.tcu.cs.hogwartsartifactsonline.dao.ArtifactDao;
 import edu.tcu.cs.hogwartsartifactsonline.domain.Artifact;
+import edu.tcu.cs.hogwartsartifactsonline.utils.IdWorker;
 import org.springframework.stereotype.Service;
 import javax.transaction.Transactional;
 import java.util.List;
